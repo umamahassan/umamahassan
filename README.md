@@ -1,11 +1,3 @@
-# GitHub profile README for Umama Hassan
-
-How to use: create a **public repository named exactly `umamahassan`** (same as your username), tick "Add a README", and paste everything below the line into `README.md`. GitHub shows it at the top of your profile.
-
-Replace anything in `[square brackets]`. The two live-stats images load from GitHub-hosted services and update on their own.
-
----
-
 <div align="center">
 
 # Umama Hassan
