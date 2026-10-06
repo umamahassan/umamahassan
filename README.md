@@ -53,7 +53,6 @@ Replace anything in `[square brackets]`. The two live-stats images load from Git
 |---|---|---|
 | [**Kindly**](https://kindly-iota.vercel.app/) | Hyperlocal donation and resource-sharing PWA. Led a team of 3, secured PKR 3M funding, 2nd-highest external FYP score. | MERN, PWA, OpenAI, PaddleOCR, WebSockets, Docker, CI/CD |
 | [**Cake Ordering System**](https://github.com/umamahassan/CakeOrderingSystem) | Full-stack ordering platform with SignalR order tracking, Identity roles and an admin dashboard. | ASP.NET Core 8 MVC, EF Core, LINQ, SignalR, SQL Server, Docker |
-| **[Repo name]** | [One line on a third project, ideally one you can open-source] | [Stack] |
 | [**ContaTaxPay**](https://www.figma.com/design/aAd9tqwMl3sBAz09wzGYWY/ContaTaxPay?node-id=5-4375&t=Kjp7lkef9GAk00dd-1) | Design: redesigned a 70+ screen accounting platform for web and mobile. | Figma, design system |
 
 Tip: pin your 6 best repositories (Kindly, Cake Ordering System and your dev portfolio first) from your profile page using "Customize your pins".
